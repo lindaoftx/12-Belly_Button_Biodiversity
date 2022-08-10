@@ -1,0 +1,47 @@
+body {
+    background-color: #ffffff;
+}
+
+.jumbotron {
+    background-image: url(img/bb.png);
+    background-size: 100%;
+    background-position: center;
+    color: antiquewhite;
+}
+
+.jumbotron h1 {
+    font-size: 54pt;
+    text-transform: uppercase;
+    letter-spacing: 3.5px;
+    font-weight: bolder;
+    line-height: 68pt;
+    text-shadow: 2.5px 2.5px #333333;
+}
+
+.jumbotron p {
+    font-style: oblique;
+    letter-spacing: 3.5px;
+}
+
+.well {
+    background-color: #337ab7;
+    border-radius: 6px;
+    color: #ffffff;
+}
+
+select {
+    color:#333333;
+    padding: 5px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-size: 12pt;
+    margin-bottom: 20px;
+}
+
+h6 {
+    font-size: 10pt;
+    line-height: 44pt;
+}
